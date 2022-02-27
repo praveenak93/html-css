@@ -1,0 +1,48 @@
+body{
+  background-color: hsl(233,47%,7%);
+  width: 1440px;
+}
+h1{
+  font-family: 'Inter',sans-serif;
+  color: hsl(0,0%,100%);
+}
+p{
+  margin: 20px 0;
+  padding-bottom: 40px;
+  font-family: 'lexan Deca',sans-serif;
+  color: hsla(0,0%,100%,0.75);
+
+}
+h3{
+  font-family: 'Inter',sans-serif;
+  font-size: 16px;
+  color: hsl(0,0%,100%);
+  display: inline;
+  padding-right: 90px;
+}
+h4{
+  font-family: 'Inter',sans-serif;
+  font-size: 10px;
+  font-weight: lighter;
+  color: hsla(0,0%, 100%, 0.6);
+  display: inline;
+  padding-right: 65px;
+
+}
+
+.container{
+    margin: 150px 225px;
+    background-color: hsl(244,38%,16%);
+    display: inline-block;
+    text-align: left;
+    line-height: 1;
+
+    }
+img{
+  float: right;
+  width: 50%;
+  }
+.left-side{
+  font-size: 15px;
+  padding: 40px;
+}
